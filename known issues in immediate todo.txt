@@ -1,0 +1,4 @@
+The item look up button doesn't show the right page when you click (I think) P, Q, R.  Will be fixed soon.
+
+The volume of sounds is not properly balanced (some sounds are loud as heck)
+
